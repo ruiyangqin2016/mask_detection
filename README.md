@@ -1,7 +1,3 @@
-# CS6220 Project
-Group 2: DeepFace: A High Performance Deep Neural Network System for Facial Recognition on the Edge\
-Group Member: Ziang Ren, Liqiong Zhao, Ruiyang Qin, Zirong Yu
-
 ## Files in this folder
 ```
 project
